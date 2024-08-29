@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.followers {
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color:#821131;
+    position: absolute;
+    transition-duration: 0.05s;
+
+}
